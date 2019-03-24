@@ -4,6 +4,9 @@ create table clientes (
 	dni char(8)
 )
 
--- autor: Gisselle Salazar
+
+tablespace tmp;
+
+commit;:
 
 -- tercer cambio
