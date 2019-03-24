@@ -1,6 +1,7 @@
 --creacion de tablas del data warehouse
 create table clientes (
-	nombre carvarh2(50),
+	nombre varchar2(50),
 	dni char(8)
 )
 
+-- autor: Gisselle Salazar
